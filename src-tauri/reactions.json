@@ -1,0 +1,1103 @@
+[
+  {
+    "formula_id": 46166,
+    "formula_name": "Caesarium Cadmide Reaction Formula",
+    "output": {
+      "name": "Caesarium Cadmide",
+      "id": 16663,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Oxygen Fuel Block",
+        "id": 4312,
+        "quantity": 5
+      },
+      {
+        "name": "Cadmium",
+        "id": 16643,
+        "quantity": 100
+      },
+      {
+        "name": "Caesium",
+        "id": 16647,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 57490,
+    "formula_name": "Carbon Fiber Reaction Formula",
+    "output": {
+      "name": "Carbon Fiber",
+      "id": 57453,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Helium Fuel Block",
+        "id": 4247,
+        "quantity": 5
+      },
+      {
+        "name": "Hydrocarbons",
+        "id": 16633,
+        "quantity": 100
+      },
+      {
+        "name": "Evaporite Deposits",
+        "id": 16635,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46167,
+    "formula_name": "Carbon Polymers Reaction Formula",
+    "output": {
+      "name": "Carbon Polymers",
+      "id": 16659,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Helium Fuel Block",
+        "id": 4247,
+        "quantity": 5
+      },
+      {
+        "name": "Hydrocarbons",
+        "id": 16633,
+        "quantity": 100
+      },
+      {
+        "name": "Silicates",
+        "id": 16636,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46168,
+    "formula_name": "Ceramic Powder Reaction Formula",
+    "output": {
+      "name": "Ceramic Powder",
+      "id": 16660,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Hydrogen Fuel Block",
+        "id": 4246,
+        "quantity": 5
+      },
+      {
+        "name": "Evaporite Deposits",
+        "id": 16635,
+        "quantity": 100
+      },
+      {
+        "name": "Silicates",
+        "id": 16636,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46169,
+    "formula_name": "Crystallite Alloy Reaction Formula",
+    "output": {
+      "name": "Crystallite Alloy",
+      "id": 16655,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Helium Fuel Block",
+        "id": 4247,
+        "quantity": 5
+      },
+      {
+        "name": "Cobalt",
+        "id": 16640,
+        "quantity": 100
+      },
+      {
+        "name": "Cadmium",
+        "id": 16643,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46170,
+    "formula_name": "Dysporite Reaction Formula",
+    "output": {
+      "name": "Dysporite",
+      "id": 16668,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Helium Fuel Block",
+        "id": 4247,
+        "quantity": 5
+      },
+      {
+        "name": "Mercury",
+        "id": 16646,
+        "quantity": 100
+      },
+      {
+        "name": "Dysprosium",
+        "id": 16650,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46171,
+    "formula_name": "Fernite Alloy Reaction Formula",
+    "output": {
+      "name": "Fernite Alloy",
+      "id": 16656,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Hydrogen Fuel Block",
+        "id": 4246,
+        "quantity": 5
+      },
+      {
+        "name": "Scandium",
+        "id": 16639,
+        "quantity": 100
+      },
+      {
+        "name": "Vanadium",
+        "id": 16642,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46172,
+    "formula_name": "Ferrofluid Reaction Formula",
+    "output": {
+      "name": "Ferrofluid",
+      "id": 16669,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Hydrogen Fuel Block",
+        "id": 4246,
+        "quantity": 5
+      },
+      {
+        "name": "Hafnium",
+        "id": 16648,
+        "quantity": 100
+      },
+      {
+        "name": "Dysprosium",
+        "id": 16650,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46173,
+    "formula_name": "Fluxed Condensates Reaction Formula",
+    "output": {
+      "name": "Fluxed Condensates",
+      "id": 17769,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Oxygen Fuel Block",
+        "id": 4312,
+        "quantity": 5
+      },
+      {
+        "name": "Neodymium",
+        "id": 16651,
+        "quantity": 100
+      },
+      {
+        "name": "Thulium",
+        "id": 16653,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46174,
+    "formula_name": "Hexite Reaction Formula",
+    "output": {
+      "name": "Hexite",
+      "id": 16665,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Nitrogen Fuel Block",
+        "id": 4051,
+        "quantity": 5
+      },
+      {
+        "name": "Chromium",
+        "id": 16641,
+        "quantity": 100
+      },
+      {
+        "name": "Platinum",
+        "id": 16644,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46175,
+    "formula_name": "Hyperflurite Reaction Formula",
+    "output": {
+      "name": "Hyperflurite",
+      "id": 16666,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Nitrogen Fuel Block",
+        "id": 4051,
+        "quantity": 5
+      },
+      {
+        "name": "Vanadium",
+        "id": 16642,
+        "quantity": 100
+      },
+      {
+        "name": "Promethium",
+        "id": 16652,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46176,
+    "formula_name": "Neo Mercurite Reaction Formula",
+    "output": {
+      "name": "Neo Mercurite",
+      "id": 16667,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Helium Fuel Block",
+        "id": 4247,
+        "quantity": 5
+      },
+      {
+        "name": "Mercury",
+        "id": 16646,
+        "quantity": 100
+      },
+      {
+        "name": "Neodymium",
+        "id": 16651,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46177,
+    "formula_name": "Platinum Technite Reaction Formula",
+    "output": {
+      "name": "Platinum Technite",
+      "id": 16662,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Nitrogen Fuel Block",
+        "id": 4051,
+        "quantity": 5
+      },
+      {
+        "name": "Platinum",
+        "id": 16644,
+        "quantity": 100
+      },
+      {
+        "name": "Technetium",
+        "id": 16649,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46186,
+    "formula_name": "Promethium Mercurite Reaction Formula",
+    "output": {
+      "name": "Promethium Mercurite",
+      "id": 33337,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Helium Fuel Block",
+        "id": 4247,
+        "quantity": 5
+      },
+      {
+        "name": "Mercury",
+        "id": 16646,
+        "quantity": 100
+      },
+      {
+        "name": "Promethium",
+        "id": 16652,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46184,
+    "formula_name": "Prometium Reaction Formula",
+    "output": {
+      "name": "Prometium",
+      "id": 17960,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Oxygen Fuel Block",
+        "id": 4312,
+        "quantity": 5
+      },
+      {
+        "name": "Cadmium",
+        "id": 16643,
+        "quantity": 100
+      },
+      {
+        "name": "Promethium",
+        "id": 16652,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46178,
+    "formula_name": "Rolled Tungsten Alloy Reaction Formula",
+    "output": {
+      "name": "Rolled Tungsten Alloy",
+      "id": 16657,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Nitrogen Fuel Block",
+        "id": 4051,
+        "quantity": 5
+      },
+      {
+        "name": "Tungsten",
+        "id": 16637,
+        "quantity": 100
+      },
+      {
+        "name": "Platinum",
+        "id": 16644,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46179,
+    "formula_name": "Silicon Diborite Reaction Formula",
+    "output": {
+      "name": "Silicon Diborite",
+      "id": 16658,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Oxygen Fuel Block",
+        "id": 4312,
+        "quantity": 5
+      },
+      {
+        "name": "Evaporite Deposits",
+        "id": 16635,
+        "quantity": 100
+      },
+      {
+        "name": "Silicates",
+        "id": 16636,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46180,
+    "formula_name": "Solerium Reaction Formula",
+    "output": {
+      "name": "Solerium",
+      "id": 16664,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Oxygen Fuel Block",
+        "id": 4312,
+        "quantity": 5
+      },
+      {
+        "name": "Chromium",
+        "id": 16641,
+        "quantity": 100
+      },
+      {
+        "name": "Caesium",
+        "id": 16647,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46181,
+    "formula_name": "Sulfuric Acid Reaction Formula",
+    "output": {
+      "name": "Sulfuric Acid",
+      "id": 16661,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Nitrogen Fuel Block",
+        "id": 4051,
+        "quantity": 5
+      },
+      {
+        "name": "Atmospheric Gases",
+        "id": 16634,
+        "quantity": 100
+      },
+      {
+        "name": "Evaporite Deposits",
+        "id": 16635,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 57494,
+    "formula_name": "Thermosetting Polymer Reaction Formula",
+    "output": {
+      "name": "Thermosetting Polymer",
+      "id": 57455,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Oxygen Fuel Block",
+        "id": 4312,
+        "quantity": 5
+      },
+      {
+        "name": "Atmospheric Gases",
+        "id": 16634,
+        "quantity": 100
+      },
+      {
+        "name": "Silicates",
+        "id": 16636,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46185,
+    "formula_name": "Thulium Hafnite Reaction Formula",
+    "output": {
+      "name": "Thulium Hafnite",
+      "id": 33336,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Hydrogen Fuel Block",
+        "id": 4246,
+        "quantity": 5
+      },
+      {
+        "name": "Hafnium",
+        "id": 16648,
+        "quantity": 100
+      },
+      {
+        "name": "Thulium",
+        "id": 16653,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46182,
+    "formula_name": "Titanium Chromide Reaction Formula",
+    "output": {
+      "name": "Titanium Chromide",
+      "id": 16654,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Oxygen Fuel Block",
+        "id": 4312,
+        "quantity": 5
+      },
+      {
+        "name": "Chromium",
+        "id": 16641,
+        "quantity": 100
+      },
+      {
+        "name": "Titanium",
+        "id": 16638,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46183,
+    "formula_name": "Vanadium Hafnite Reaction Formula",
+    "output": {
+      "name": "Vanadium Hafnite",
+      "id": 17959,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Hydrogen Fuel Block",
+        "id": 4246,
+        "quantity": 5
+      },
+      {
+        "name": "Vanadium",
+        "id": 16642,
+        "quantity": 100
+      },
+      {
+        "name": "Hafnium",
+        "id": 16648,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 57491,
+    "formula_name": "Oxy-Organic Solvents Reaction Formula",
+    "output": {
+      "name": "Oxy-Organic Solvents",
+      "id": 57454,
+      "quantity": 10
+    },
+    "inputs": [
+      {
+        "name": "Oxygen Fuel Block",
+        "id": 4312,
+        "quantity": 5
+      },
+      {
+        "name": "Atmospheric Gases",
+        "id": 16634,
+        "quantity": 2000
+      },
+      {
+        "name": "Hydrocarbons",
+        "id": 16633,
+        "quantity": 2000
+      }
+    ]
+  },
+  {
+    "formula_id": 46205,
+    "formula_name": "Crystalline Carbonide Reaction Formula",
+    "output": {
+      "name": "Crystalline Carbonide",
+      "id": 16670,
+      "quantity": 10000
+    },
+    "inputs": [
+      {
+        "name": "Helium Fuel Block",
+        "id": 4247,
+        "quantity": 5
+      },
+      {
+        "name": "Crystallite Alloy",
+        "id": 16655,
+        "quantity": 100
+      },
+      {
+        "name": "Carbon Polymers",
+        "id": 16659,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46214,
+    "formula_name": "Fermionic Condensates Reaction Formula",
+    "output": {
+      "name": "Fermionic Condensates",
+      "id": 16673,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Helium Fuel Block",
+        "id": 4247,
+        "quantity": 5
+      },
+      {
+        "name": "Caesarium Cadmide",
+        "id": 16663,
+        "quantity": 100
+      },
+      {
+        "name": "Dysporite",
+        "id": 16668,
+        "quantity": 100
+      },
+      {
+        "name": "Fluxed Condensates",
+        "id": 17769,
+        "quantity": 100
+      },
+      {
+        "name": "Prometium",
+        "id": 17960,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46206,
+    "formula_name": "Fernite Carbide Reaction Formula",
+    "output": {
+      "name": "Fernite Carbide",
+      "id": 16672,
+      "quantity": 10000
+    },
+    "inputs": [
+      {
+        "name": "Hydrogen Fuel Block",
+        "id": 4246,
+        "quantity": 5
+      },
+      {
+        "name": "Fernite Alloy",
+        "id": 16656,
+        "quantity": 100
+      },
+      {
+        "name": "Ceramic Powder",
+        "id": 16660,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46213,
+    "formula_name": "Ferrogel Reaction Formula",
+    "output": {
+      "name": "Ferrogel",
+      "id": 16678,
+      "quantity": 400
+    },
+    "inputs": [
+      {
+        "name": "Hydrogen Fuel Block",
+        "id": 4246,
+        "quantity": 5
+      },
+      {
+        "name": "Hexite",
+        "id": 16665,
+        "quantity": 100
+      },
+      {
+        "name": "Hyperflurite",
+        "id": 16666,
+        "quantity": 100
+      },
+      {
+        "name": "Ferrofluid",
+        "id": 16669,
+        "quantity": 100
+      },
+      {
+        "name": "Prometium",
+        "id": 17960,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46209,
+    "formula_name": "Fullerides Reaction Formula",
+    "output": {
+      "name": "Fullerides",
+      "id": 16679,
+      "quantity": 3000
+    },
+    "inputs": [
+      {
+        "name": "Nitrogen Fuel Block",
+        "id": 4051,
+        "quantity": 5
+      },
+      {
+        "name": "Carbon Polymers",
+        "id": 16659,
+        "quantity": 100
+      },
+      {
+        "name": "Platinum Technite",
+        "id": 16662,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46212,
+    "formula_name": "Hypersynaptic Fibers Reaction Formula",
+    "output": {
+      "name": "Hypersynaptic Fibers",
+      "id": 16682,
+      "quantity": 750
+    },
+    "inputs": [
+      {
+        "name": "Oxygen Fuel Block",
+        "id": 4312,
+        "quantity": 5
+      },
+      {
+        "name": "Vanadium Hafnite",
+        "id": 17959,
+        "quantity": 100
+      },
+      {
+        "name": "Solerium",
+        "id": 16664,
+        "quantity": 100
+      },
+      {
+        "name": "Dysporite",
+        "id": 16668,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46211,
+    "formula_name": "Nanotransistors Reaction Formula",
+    "output": {
+      "name": "Nanotransistors",
+      "id": 16681,
+      "quantity": 1500
+    },
+    "inputs": [
+      {
+        "name": "Nitrogen Fuel Block",
+        "id": 4051,
+        "quantity": 5
+      },
+      {
+        "name": "Sulfuric Acid",
+        "id": 16661,
+        "quantity": 100
+      },
+      {
+        "name": "Platinum Technite",
+        "id": 16662,
+        "quantity": 100
+      },
+      {
+        "name": "Neo Mercurite",
+        "id": 16667,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46218,
+    "formula_name": "Nonlinear Metamaterials Reaction Formula",
+    "output": {
+      "name": "Nonlinear Metamaterials",
+      "id": 16683,
+      "quantity": 300
+    },
+    "inputs": [
+      {
+        "name": "Nitrogen Fuel Block",
+        "id": 4051,
+        "quantity": 5
+      },
+      {
+        "name": "Titanium Chromide",
+        "id": 16654,
+        "quantity": 100
+      },
+      {
+        "name": "Ferrofluid",
+        "id": 16669,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46210,
+    "formula_name": "Phenolic Composites Reaction Formula",
+    "output": {
+      "name": "Phenolic Composites",
+      "id": 16680,
+      "quantity": 2200
+    },
+    "inputs": [
+      {
+        "name": "Oxygen Fuel Block",
+        "id": 4312,
+        "quantity": 5
+      },
+      {
+        "name": "Silicon Diborite",
+        "id": 16658,
+        "quantity": 100
+      },
+      {
+        "name": "Caesarium Cadmide",
+        "id": 16663,
+        "quantity": 100
+      },
+      {
+        "name": "Vanadium Hafnite",
+        "id": 17959,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46217,
+    "formula_name": "Photonic Metamaterials Reaction Formula",
+    "output": {
+      "name": "Photonic Metamaterials",
+      "id": 16674,
+      "quantity": 300
+    },
+    "inputs": [
+      {
+        "name": "Oxygen Fuel Block",
+        "id": 4312,
+        "quantity": 5
+      },
+      {
+        "name": "Crystallite Alloy",
+        "id": 16655,
+        "quantity": 100
+      },
+      {
+        "name": "Thulium Hafnite",
+        "id": 33336,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46215,
+    "formula_name": "Plasmonic Metamaterials Reaction Formula",
+    "output": {
+      "name": "Plasmonic Metamaterials",
+      "id": 16675,
+      "quantity": 300
+    },
+    "inputs": [
+      {
+        "name": "Hydrogen Fuel Block",
+        "id": 4246,
+        "quantity": 5
+      },
+      {
+        "name": "Fernite Alloy",
+        "id": 16656,
+        "quantity": 100
+      },
+      {
+        "name": "Neo Mercurite",
+        "id": 16667,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46208,
+    "formula_name": "Sylramic Fibers Reaction Formula",
+    "output": {
+      "name": "Sylramic Fibers",
+      "id": 16676,
+      "quantity": 6000
+    },
+    "inputs": [
+      {
+        "name": "Helium Fuel Block",
+        "id": 4247,
+        "quantity": 5
+      },
+      {
+        "name": "Ceramic Powder",
+        "id": 16660,
+        "quantity": 100
+      },
+      {
+        "name": "Hexite",
+        "id": 16665,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46216,
+    "formula_name": "Terahertz Metamaterials Reaction Formula",
+    "output": {
+      "name": "Terahertz Metamaterials",
+      "id": 16677,
+      "quantity": 300
+    },
+    "inputs": [
+      {
+        "name": "Helium Fuel Block",
+        "id": 4247,
+        "quantity": 5
+      },
+      {
+        "name": "Rolled Tungsten Alloy",
+        "id": 16657,
+        "quantity": 100
+      },
+      {
+        "name": "Promethium Mercurite",
+        "id": 33337,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46204,
+    "formula_name": "Titanium Carbide Reaction Formula",
+    "output": {
+      "name": "Titanium Carbide",
+      "id": 16671,
+      "quantity": 10000
+    },
+    "inputs": [
+      {
+        "name": "Oxygen Fuel Block",
+        "id": 4312,
+        "quantity": 5
+      },
+      {
+        "name": "Titanium Chromide",
+        "id": 16654,
+        "quantity": 100
+      },
+      {
+        "name": "Silicon Diborite",
+        "id": 16658,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 46207,
+    "formula_name": "Tungsten Carbide Reaction Formula",
+    "output": {
+      "name": "Tungsten Carbide",
+      "id": 16684,
+      "quantity": 10000
+    },
+    "inputs": [
+      {
+        "name": "Nitrogen Fuel Block",
+        "id": 4051,
+        "quantity": 5
+      },
+      {
+        "name": "Rolled Tungsten Alloy",
+        "id": 16657,
+        "quantity": 100
+      },
+      {
+        "name": "Sulfuric Acid",
+        "id": 16661,
+        "quantity": 100
+      }
+    ]
+  },
+  {
+    "formula_id": 57492,
+    "formula_name": "Pressurized Oxidizers Reaction Formula",
+    "output": {
+      "name": "Pressurized Oxidizers",
+      "id": 57456,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Carbon Polymers",
+        "id": 16659,
+        "quantity": 200
+      },
+      {
+        "name": "Sulfuric Acid",
+        "id": 16661,
+        "quantity": 200
+      },
+      {
+        "name": "Oxy-Organic Solvents",
+        "id": 57454,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "formula_id": 57493,
+    "formula_name": "Reinforced Carbon Fiber Reaction Formula",
+    "output": {
+      "name": "Reinforced Carbon Fiber",
+      "id": 57457,
+      "quantity": 200
+    },
+    "inputs": [
+      {
+        "name": "Carbon Fiber",
+        "id": 57453,
+        "quantity": 200
+      },
+      {
+        "name": "Thermosetting Polymer",
+        "id": 57455,
+        "quantity": 200
+      },
+      {
+        "name": "Oxy-Organic Solvents",
+        "id": 57454,
+        "quantity": 1
+      }
+    ]
+  }
+]
